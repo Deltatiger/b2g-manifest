@@ -153,7 +153,7 @@
 
 	<!-- This is the Buzz Specific Files -->
 	<!-- Attempt 1 -->
-	<project path="device/htc/buzz" name="ErwinP/android_device_htc_buzz" />
+	<project path="device/htc/buzz" name="Deltatiger/android_device_htc_buzz" />
     <project path="device/ldpi-common" name="ErwinP/ldpi-common" />
     <project path="hardware/ril" name="ErwinP/android_hardware_ril" />
     <project path="hardware/qcom/camera" name="ErwinP/android_hardware_qcom_camera" />
