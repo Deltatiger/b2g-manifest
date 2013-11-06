@@ -157,7 +157,7 @@
     <project path="device/ldpi-common" name="ErwinP/ldpi-common" />
     <project path="hardware/ril" name="ErwinP/android_hardware_ril" />
     <project path="hardware/qcom/camera" name="ErwinP/android_hardware_qcom_camera" />
-    <project path="vendor/htc/buzz" name="Deltatiger/proprietary_vendor_htc_buzz" />
+    <project path="vendor/htc/buzz" name="Deltatiger/vendor_htc_buzz_propreitary" />
     <project path="kernel/htc/buzz" name="ErwinP/htc-kernel-msm7225" />
     <project path="external/ppp" name="ErwinP/android_external_ppp" />
     <project path="external/webrtc" name="ErwinP/android_external_webrtc" />
